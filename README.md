@@ -15,3 +15,5 @@ This dataset provides information on easily gathered features such as `popularit
 The full description of these features can be found at https://developer.spotify.com/documentation/web-api/reference/#category-tracks under AudioFeaturesObject.
 
 The notebook includes my original code and process cleaning, organizing, merging, quality-checking, and finally, analyzing the dataset through multiple different methods.
+
+[This](https://lucid.app/lucidchart/invitations/accept/inv_4a7d3188-c38e-494a-99b4-4087b663c3e4?viewport_loc=-31%2C663%2C1157%2C532%2C0_0) is a link to the full storyboard which includes full documentation about the data analysis process.
